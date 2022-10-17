@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-my github stats
+- 
+My github stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guidoseia)](https://github.com/guidoseia/github-readme-stats)
 
