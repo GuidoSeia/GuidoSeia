@@ -1,4 +1,10 @@
 - ### 👋 Hi, I’m @GuidoSeia
+ 
+
+<a href="https://www.linkedin.com/in/guido-seia-99a6591a8/">
+  <img align="left" alt="guidosei's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 - 👀 I’m interested in ...
 - [![GitHub Streak](https://streak-stats.demolab.com?user=guidoseia&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
 - 🌱 I’m currently learning ...
