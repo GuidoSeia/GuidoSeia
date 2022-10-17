@@ -1,4 +1,4 @@
-- ### 👋 Hi, I’m @GuidoSeia
+<h1 align="left">Hi 👋, I'm Guido Seia</h1>
  
 Connect with me:
 
