@@ -1,5 +1,6 @@
 - ### 👋 Hi, I’m @GuidoSeia
  
+-Connect with me:
 
 <a href="https://www.linkedin.com/in/guido-seia-99a6591a8/">
   <img align="left" alt="guidosei's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
