@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋, I'm Guido Seia</h1>
-<h3 align="center">A passionate fullstack MERN developer</h3>
+<h3 align="center">Fullstack MERN Developer</h3>
 
 
 
