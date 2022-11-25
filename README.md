@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **React and Node skills**
+- 🌱 I’m currently learning **SQL, PostgreSQL, React and Node skills**
 - 📫 How to reach me guidoseia5@gmail.com
 
 <h3 align="left">Connect with me:</h3>
