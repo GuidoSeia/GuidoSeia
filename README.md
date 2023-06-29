@@ -1,9 +1,9 @@
 <h1 align="left">Hey 👋, I'm Guido Seia</h1>
-<h3 align="center">Fullstack MERN Developer</h3>
+<h3 align="center">QA ANALYST</h3>
 
 
 
-- 🌱 I’m currently learning **SQL, PostgreSQL, React and Node skills**
+- 🌱 I’m currently learning **Selenium, Cypress and Azure Devops**
 - 📫 How to reach me guidoseia5@gmail.com
 
 <h3 align="left">Connect with me:</h3>
