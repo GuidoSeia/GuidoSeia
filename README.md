@@ -1,9 +1,5 @@
 <h1 align="left">Hey 👋, I'm Guido Seia</h1>
-<h3 align="center">DevOps/Cloud Engineer</h3>
 
-
-
-- 🌱 I’m currently learning **AWS, Docker and Kubernetes**
 - 📫 How to reach me guidoseia5@gmail.com
 
 <h3 align="left">Connect with me:</h3>
